@@ -19,6 +19,7 @@ Overall, both June and December statistics both indicate high chances of success
 
 ### TWO ADDITIONAL QUERIES
 •	A query that returns information on precipitation along with temperatures to determine impending rainfall, and how those results affect the demand for the surf shop items like surf boards and ice-cream.
+
 •	A query that returns the temperature data for all months, that can be analysed in order for the team to really forecast temperature, precipitation, and their impacts on demand as well as profitability. This will really help solidify the proposition of opening the surf shop and being open year-round.
 
 
